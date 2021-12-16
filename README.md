@@ -1,6 +1,6 @@
 # Hello World 👋
 
-My name is Derek and I'm a Full Stack Web Developer with a passion to create projects that are user-friendly and brings people together! Im also very passionate about Streetwear because who doesnt like to dress nice? Video Games are also a interest ive had since i was younger, specifiy games cards or anything that will make you think before making a action!
+My name is Derek and I'm a Full Stack Web Developer with a passion to create projects that are user-friendly and brings people together! Im also very passionate about Streetwear because who doesnt like to dress nice? Games are also a interest ive had since i was younger, specifiy cards, video games, or anything that will make you think before making an action!
 
 [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derek-Cruz&theme=solarized-light&icons=true)](https://github.com/Derek-Cruz)
 

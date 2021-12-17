@@ -30,9 +30,7 @@ My name is Derek and I'm a Full Stack Web Developer with a passion to create pro
 ### Find me here!
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/derek-cruz)
 
-[<img src="https://img.shields.io/badge/Discord-432734577316986880?style=for-the-badge&logo=discord&logoColor=white">](https://www.discord.com/channels/432734577316986880)
-
-
+[<img src="https://img.shields.io/badge/Discord-432734577316986880?style=for-the-badge&logo=discord&logoColor=white">](https://www.discord.com/users/432734577316986880)
 
 
 
